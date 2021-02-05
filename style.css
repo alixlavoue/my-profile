@@ -1,0 +1,55 @@
+body {
+  background-color: #CDB580;
+  color: black;
+  font-family: Times;
+  font-size: 14px
+  font-weight: lighter;
+ }
+
+#Lewagon {
+  color: #D6CBD3;
+  font-family: Circular Air Pro , sans-serif; 
+  font-weight: : 700;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
+h1{
+   color: #1496BA;
+   font-family: Circular Air Pro;
+   font-weight: 700;
+   font-size: 24px;
+   text-transform: uppercase;
+}
+h2{
+   color: #b9936c;
+   font-family: Circular Air Pro;
+   font-weight: 700;
+   font-size: 24px;
+   text-transform: uppercase;
+}
+h3{
+   color: #496DDB;
+   font-family: Circular Air Pro;
+   font-weight: 700;
+   font-size: 24px;
+   text-transform: uppercase;
+}
+a {
+    text-decoration: none;
+    color: black
+}
+a {
+    color: black;  
+}
+
+#LinkedIn-button{
+	color: #067BB6; 
+}
+
+#Instagram-button{
+	color: #cd0077;
+}
+.lili {
+	text-align: center;
+}
